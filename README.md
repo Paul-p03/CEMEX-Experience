@@ -1,1 +1,2 @@
 # CEMEX-Experience
+Hello everyone, I wanted to shared my Final Internship Presentation Powerpoint as a CEMEX employee, consisting of all of my skills and achievements gained throughout the summer of 2024 as an Automation Engineer. To summarize a large portion of my summer, I utilized SCADA systems to monitor and control industrial equipment enhancing real-time feedback efficiency and reliability. 
