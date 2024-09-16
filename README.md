@@ -1,7 +1,7 @@
 # CEMEX-Experience
 Hello everyone,
 
-Posted is my Final Internship Presentation PowerPoint, summarizing the skills and achievements I gained during my internship as an Automation Engineer at CEMEX in the summer of 2024.
+I posted my Final Internship Presentation PowerPoint, summarizing the skills and achievements I gained during my internship as an Automation Engineer at CEMEX in the summer of 2024.
 
 Internship Highlights
 Throughout my internship, I utilized SCADA systems integrated with PLC's to monitor and control industrial equipment, which significantly improved real-time feedback efficiency and operational reliability.
